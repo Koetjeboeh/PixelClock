@@ -3,6 +3,7 @@
 
 class ESP8266WebServer;
 
+static const String emptyString = "";
 static const String emptyString1 = "";
 
 class ESP8266HTTPUpdateServer
